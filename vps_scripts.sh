@@ -613,7 +613,7 @@ show_menu() {
     21)
       clear
       echo -e "${PURPLE}执行 3X-UI优化版...${NC}"
-      bash <(curl -Ls https://raw.githubusercontent.com/zyk6271/3x-ui/master/install.sh)
+      bash <(curl -Ls https://raw.githubusercontent.com/zyk6271/xxx_custom/master/install.sh)
       read -n 1 -s -r -p "按任意键返回主菜单..."
       ;;
     22)
